@@ -1,0 +1,11 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--
+    Copy this file to "build.local.props" (same folder) and adjust the values below
+    to match your machine. "build.local.props" is gitignored, so your local paths
+    never get committed.
+  -->
+  <PropertyGroup>
+    <!-- Path to your local DNN website root, e.g. D:\Sites\DNN-Dev -->
+    <!-- <WebsitePath>D:\Sites\DNN-Dev</WebsitePath> -->
+  </PropertyGroup>
+</Project>
