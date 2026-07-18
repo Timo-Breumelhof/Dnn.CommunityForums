@@ -166,3 +166,4 @@ themes/.gitignore
 /Dnn.CommunityForums/node_modules
 /Dnn.CommunityForums/package-lock.json
 /package-lock.json
+/Dnn.CommunityForums/build.local.props
